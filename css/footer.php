@@ -4,6 +4,8 @@
   <div class="container">
     <p class="mb-1 text-light"> © Daka Bookstore,  please Order and embrace your knowledge!</p>
     <p class="mb-0 text-light">New to Bookstore? <a href="store.php">Visit the Storepage</a></p>
+    <p class="mb-0 text-light">Github-Repo <a href="https://github.com/knaveen97/project1_php">Visit the GitHub Link</a></p>
+
   </div>
 </footer>
 
